@@ -16,5 +16,6 @@
   "hubot-lmgtfy",
   "hubot-morse",
   "hubot-getbacktowork",
-  "hubot-remind-advanced"
+  "hubot-remind-advanced",
+  "hubot-heroku-keepalive"
 ]
