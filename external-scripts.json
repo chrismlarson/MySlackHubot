@@ -4,9 +4,17 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-cron-events",
+  "hubot-auth",
+  "hubot-seen",
+  "hubot-memegeneration",
+  "hubot-thesimpsons",
+  "hubot-darksky",
+  "hubot-lmgtfy",
+  "hubot-morse",
+  "hubot-getbacktowork",
+  "hubot-remind-advanced"
 ]
