@@ -6,18 +6,28 @@
   "description": "Do Larson's bidding",
   "dependencies": {
     "hubot": "^3.1.1",
+    "hubot-auth": "^2.1.0",
+    "hubot-cron-events": "^1.0.0",
+    "hubot-darksky": "^1.1.0",
     "hubot-diagnostics": "^1.0.0",
+    "hubot-getbacktowork": "^1.0.3",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
     "hubot-help": "^1.0.1",
     "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-lmgtfy": "^1.0.1",
     "hubot-maps": "0.0.3",
+    "hubot-memegeneration": "^3.0.0",
+    "hubot-morse": "^1.0.7",
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "^1.0.0",
+    "hubot-remind-advanced": "0.0.5",
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
+    "hubot-seen": "^1.0.1",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.5.5"
+    "hubot-slack": "^4.5.5",
+    "hubot-thesimpsons": "^1.1.5"
   },
   "engines": {
     "node": "10.14.1"
