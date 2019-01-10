@@ -17,5 +17,6 @@
   "hubot-morse",
   "hubot-getbacktowork",
   "hubot-remind-advanced",
-  "hubot-heroku-keepalive"
+  "hubot-heroku-keepalive",
+  "Hubot-hear-say"
 ]
